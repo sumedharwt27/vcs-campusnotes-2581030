@@ -1,0 +1,2 @@
+Hook demo
+Hooks run automatically before every commit.
