@@ -1,11 +1,16 @@
+# .gitignore - files and folders Git should never track
 # macOS / Windows system files
 .DS_Store
+._*
 Thumbs.db
 
-# Editor folders
+# Editor folders and swap files
 .vscode/
 .idea/
+*.swp
 
-# Logs and temp files
+# Logs
 *.log
-*.tmp
+
+# Backup files
+*.bak
